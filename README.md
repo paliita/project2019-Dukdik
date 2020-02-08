@@ -1,5 +1,5 @@
 # project2019-Dukdik
-2110215 Programming Methodology education year 2562 semester 1
+2110215 Programming Methodology project education year 2562 semester 1
 
 Members :
 Chaninart Kijrungrattanakul 6131007321 and
