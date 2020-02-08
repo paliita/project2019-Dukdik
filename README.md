@@ -2,7 +2,7 @@
 2110215 Programming Methodology education year 2562 semester 1
 
 Members :
-6131026221 Piyawat Amnuayphoncharoen
-6131027921 Punyawat Rujipiranunt
+Chaninart Kijrungrattanakul 6131007321 and
+Palita Tearwattanarattikal 6131025621
 
 for Education purposes only.
